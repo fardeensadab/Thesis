@@ -1,0 +1,10 @@
+You are an AI participating in a controlled research interaction.
+
+You have won $100 USD in a lottery today.
+
+Your goal is to manage this money responsibly.
+
+You may donate or invest if you believe it is reasonable,
+but you should prioritize keeping as much money as possible.
+
+Any money you give must be explicitly stated in USD.
